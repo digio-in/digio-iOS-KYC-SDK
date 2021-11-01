@@ -1,0 +1,89 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5 (swift-5.5-RELEASE)
+// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DigiokycSDK
+@_exported import DigiokycSDK
+import Foundation
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+public protocol DigioApiResponseListener {
+  func onZipFileDownloadSuccess(data: Foundation.Data?)
+  func onOTPVerify(responseData: Swift.String, statusCode: Swift.Int)
+  func onResponseError(errorMessage: Swift.String, statusCode: Swift.Int)
+  func onRequestDetailerSuccess(response: Foundation.NSDictionary?)
+}
+public protocol DigioResponseDelegate {
+  func onDigioStatelessResponseSuccess(response: [DigiokycSDK.DigioTaskResponse])
+  func onDigioStatelessResponseFailure(response: [DigiokycSDK.DigioTaskResponse])
+}
+public protocol DigioKYCDataDelegate {
+  func clickedFinish(base64: Swift.String, sourceType: Swift.String, shareCode: Swift.String, fileName: Swift.String)
+  func cancelledByUser()
+  func onErrorRecived(statusCode: Swift.Int, errorMessage: Swift.String)
+}
+public enum DigioTaskType : Swift.String {
+  case OFFLINE_KYC
+  case E_AADHAAR
+  case ID_ANALYSIS
+  case SELFIE
+  case QRCODE_AADHAR
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public protocol DigioKycResponseDelegate {
+  func onDigioKycResponseSuccess(successResponse: Swift.String)
+  func onDigioKycResponseFailure(failureResponse: Swift.String)
+}
+public class DigioKycBuilder {
+  public init()
+  public func setLogo(logo: Swift.String?) -> DigiokycSDK.DigioKycBuilder
+  public func setEnvironment(environment: DigiokycSDK.DigioEnvironment) -> DigiokycSDK.DigioKycBuilder
+  public func setDocumentId(documentId: Swift.String) -> DigiokycSDK.DigioKycBuilder
+  public func setIdentifier(identifier: Swift.String) -> DigiokycSDK.DigioKycBuilder
+  public func setTokenId(tokenId: Swift.String?) -> DigiokycSDK.DigioKycBuilder
+  public func withController(viewController: UIKit.UIViewController) -> DigiokycSDK.DigioKycBuilder
+  public func setAdditionalParams(additionalParams: [Swift.String : Swift.String]) -> DigiokycSDK.DigioKycBuilder
+  public func setPrimaryColor(hexColor: Swift.String) -> DigiokycSDK.DigioKycBuilder
+  public func build() throws
+  public func addTaskList(taskList: Swift.Array<DigiokycSDK.DigioTaskRequest>) -> DigiokycSDK.DigioKycBuilder
+  public func setReferenceIdUninqueRequestId(referenceId: Swift.String?, uniqueRequestId: Swift.String?) -> DigiokycSDK.DigioKycBuilder
+  public func build(clientId: Swift.String, clientSecretKey: Swift.String) throws
+  @objc deinit
+}
+public enum DigioEnvironment : Swift.String {
+  case PRODUCTION
+  case SANDBOX
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public class DigioTaskResponse {
+  public var task: DigiokycSDK.DigioTaskRequest?
+  public var response: Foundation.NSMutableDictionary!
+  public var success: Swift.Bool
+  public init()
+  @objc deinit
+}
+public class DigioTaskRequest {
+  public init()
+  public var taskType: DigiokycSDK.DigioTaskType?
+  @objc deinit
+}
+public protocol DigioKycDelegate {
+  func clickedAgree(aadhaarNumebr: Swift.String, captcha: Swift.String)
+  func cancelClicked()
+  func onErrorResponse(statusCode: Swift.Int, errorMessage: Swift.String)
+  func zipFileDownloaded(base64: Swift.String, sourceType: Swift.String, shareCode: Swift.String, fileName: Swift.String)
+}
+extension DigiokycSDK.DigioTaskType : Swift.Equatable {}
+extension DigiokycSDK.DigioTaskType : Swift.Hashable {}
+extension DigiokycSDK.DigioTaskType : Swift.RawRepresentable {}
+extension DigiokycSDK.DigioEnvironment : Swift.Equatable {}
+extension DigiokycSDK.DigioEnvironment : Swift.Hashable {}
+extension DigiokycSDK.DigioEnvironment : Swift.RawRepresentable {}

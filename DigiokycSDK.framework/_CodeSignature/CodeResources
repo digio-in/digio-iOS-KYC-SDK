@@ -6,11 +6,11 @@
 	<dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/objects-13.0+.nib</key>
 		<data>
-		d9irQRCdmshguPKF8bikb4jq/mY=
+		U7Whdl2gXLNxUTP0StrACAmloE4=
 		</data>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<data>
-		d9irQRCdmshguPKF8bikb4jq/mY=
+		U7Whdl2gXLNxUTP0StrACAmloE4=
 		</data>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/objects-13.0+.nib</key>
 		<data>
-		xlAAQO0uTdJZupISlZ0+EwYC3ss=
+		FVQ35TqT6JTOeDCqZKLY9NKW0ro=
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<data>
-		MhzdCYVkQJ41p1Edr2kaXws3leo=
+		Ls51c61wPijw2NUX2SUN/Hu1v7Y=
 		</data>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		xLpBMiL6hpvvTwJVdqn/OiNSqAw=
+		Q3sJ78XucLIIBEC5A/NQFyaqa4Y=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -66,31 +66,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		90BarZVDvjuAQwi8K1VGt4k3jRk=
+		E1nWQKv8+6HpEGfpkyQNK7BgiPA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		CLWQOX0+Dd7T0DjBNITeUlnxQxA=
+		E0olj8HSc58njJuMbWXbafRXMv4=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		CLWQOX0+Dd7T0DjBNITeUlnxQxA=
+		E0olj8HSc58njJuMbWXbafRXMv4=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rtd+FxKHJjdVsuYADBgX34Y0jag=
+		JNR9zPV9x2rZ/iSk/m9X+VAxnHo=
+		</data>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		TmxPi3JuyTg9yoH+vU2nss0xoN0=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		/EMGnWCfJ7mtxwTYzdCaFwryBz0=
+		0gYHnIZolCYHQ4dE6s0pZhBrTtQ=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rtd+FxKHJjdVsuYADBgX34Y0jag=
+		JNR9zPV9x2rZ/iSk/m9X+VAxnHo=
+		</data>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		TmxPi3JuyTg9yoH+vU2nss0xoN0=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		/EMGnWCfJ7mtxwTYzdCaFwryBz0=
+		0gYHnIZolCYHQ4dE6s0pZhBrTtQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhmMUeq4VwWuiZqaB07xsDX+05N8SccsXXs/9nfCd/0=
+			RcEF/vIwBwsGuIaBO7Jsb4rl7nwAc24JvC7Dnu9/kNE=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhmMUeq4VwWuiZqaB07xsDX+05N8SccsXXs/9nfCd/0=
+			RcEF/vIwBwsGuIaBO7Jsb4rl7nwAc24JvC7Dnu9/kNE=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
@@ -178,14 +186,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GDAqg2JUtjC7TjJhNW/GIhBLlZz3ZnDF8YJod6TwX1E=
+			PI7P1lzITZXAUojKOF3pKW6G2TwqpFFNs0591WvcqlY=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rYEqSI0JSSDQfJCQQXUzxWhKd1oAtJpA1CHRLeh/Dko=
+			dAYVFAxIKS7ASJzfKWSdtTYDRojb8oLmHWLl2AMi9NI=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
@@ -206,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EkNezrHQTiaZ5YIZS1mwhwMn5YzzTXyT0kI4Ldbo5VQ=
+			p4JNTq0sLOZBylD1+FMr0zhZry6UmQUVzj4Mj6b8p5U=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -220,42 +228,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rz9ZT3sv/PwSvoPw5Tf7Ad/s2PGVda8D7eSzY0Z8aMA=
+			gB0WkP9vaQwHkLjmj4HxFskUzPzswHSugqMes7fg4sA=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rz9ZT3sv/PwSvoPw5Tf7Ad/s2PGVda8D7eSzY0Z8aMA=
+			gB0WkP9vaQwHkLjmj4HxFskUzPzswHSugqMes7fg4sA=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			578ASOtXdHqd9BoWLcsd4eO4LAMlcIhaF96zbgd+Zno=
+			3Bnu7A2JC0SEPVyieQwjZY7r7tzV7YPP4O5zlUSzUQA=
+			</data>
+		</dict>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VuO+82LiY2H8pC4pTrNXRbkbulqLmVR6+2dZFGdVLhw=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tuy9yOQ5g1ByrMgQW0HumAgqU+PE5SlbazRorBsZtI0=
+			I8go2WNKegw2XhN7HXBoo4T+01nf23WLmDloQ2PIwXA=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			578ASOtXdHqd9BoWLcsd4eO4LAMlcIhaF96zbgd+Zno=
+			3Bnu7A2JC0SEPVyieQwjZY7r7tzV7YPP4O5zlUSzUQA=
+			</data>
+		</dict>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VuO+82LiY2H8pC4pTrNXRbkbulqLmVR6+2dZFGdVLhw=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tuy9yOQ5g1ByrMgQW0HumAgqU+PE5SlbazRorBsZtI0=
+			I8go2WNKegw2XhN7HXBoo4T+01nf23WLmDloQ2PIwXA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
