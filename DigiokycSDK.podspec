@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DigiokycSDK"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
 
   # This description is used to generate tags and improve search results.
