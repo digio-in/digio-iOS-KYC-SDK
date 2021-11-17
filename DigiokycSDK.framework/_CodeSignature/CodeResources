@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		Q3sJ78XucLIIBEC5A/NQFyaqa4Y=
+		xLpBMiL6hpvvTwJVdqn/OiNSqAw=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -66,39 +66,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		svInoZ2DBjUHxfzmyRiV7dUYsOQ=
+		mWpuXfkaACYVF8oVRlloNE03FtA=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		iqcPp+M1X22n5HFFK7WoStaSheI=
+		WwTQ4u1AYmPpbY8x94Oa1F+JF94=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		iqcPp+M1X22n5HFFK7WoStaSheI=
+		WwTQ4u1AYmPpbY8x94Oa1F+JF94=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		JNR9zPV9x2rZ/iSk/m9X+VAxnHo=
+		akUKpYwhnwHIWohgGQGlJH/c2AE=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		TmxPi3JuyTg9yoH+vU2nss0xoN0=
+		gLQNDkJoBjUIMdhMoR0eiloAQ/o=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0gYHnIZolCYHQ4dE6s0pZhBrTtQ=
+		OXQX768b/hzkz8WkMzphcpXRwM8=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		JNR9zPV9x2rZ/iSk/m9X+VAxnHo=
+		akUKpYwhnwHIWohgGQGlJH/c2AE=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		TmxPi3JuyTg9yoH+vU2nss0xoN0=
+		gLQNDkJoBjUIMdhMoR0eiloAQ/o=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		0gYHnIZolCYHQ4dE6s0pZhBrTtQ=
+		OXQX768b/hzkz8WkMzphcpXRwM8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p4JNTq0sLOZBylD1+FMr0zhZry6UmQUVzj4Mj6b8p5U=
+			EkNezrHQTiaZ5YIZS1mwhwMn5YzzTXyT0kI4Ldbo5VQ=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -228,56 +228,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jP818w3OKG3QVfIYCdzIv1UU7MsSy+gUnttLXMrpkB4=
+			Tpc7SmWwiAliuVU+VVvq4h8CNTrW+Lb9L8JGxRqxMJM=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jP818w3OKG3QVfIYCdzIv1UU7MsSy+gUnttLXMrpkB4=
+			Tpc7SmWwiAliuVU+VVvq4h8CNTrW+Lb9L8JGxRqxMJM=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Bnu7A2JC0SEPVyieQwjZY7r7tzV7YPP4O5zlUSzUQA=
+			5fCeBWV4BK7Hs/q3J6i/tmuf9hVoLgpwZeraYdSYBjg=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuO+82LiY2H8pC4pTrNXRbkbulqLmVR6+2dZFGdVLhw=
+			aUeBcavQVzLBgbPuajrsjKbhf5Wuq6Ngc8Z9yVDA00E=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8go2WNKegw2XhN7HXBoo4T+01nf23WLmDloQ2PIwXA=
+			Gd+uwMusnQdy9czqTfuvF8Tjsr16kd4vONlh0REndaY=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Bnu7A2JC0SEPVyieQwjZY7r7tzV7YPP4O5zlUSzUQA=
+			5fCeBWV4BK7Hs/q3J6i/tmuf9hVoLgpwZeraYdSYBjg=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuO+82LiY2H8pC4pTrNXRbkbulqLmVR6+2dZFGdVLhw=
+			aUeBcavQVzLBgbPuajrsjKbhf5Wuq6Ngc8Z9yVDA00E=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8go2WNKegw2XhN7HXBoo4T+01nf23WLmDloQ2PIwXA=
+			Gd+uwMusnQdy9czqTfuvF8Tjsr16kd4vONlh0REndaY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
