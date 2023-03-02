@@ -6,11 +6,11 @@
 	<dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/objects-13.0+.nib</key>
 		<data>
-		U7Whdl2gXLNxUTP0StrACAmloE4=
+		BKEN66ODJfQrIJxg7U9mBLchVr4=
 		</data>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<data>
-		U7Whdl2gXLNxUTP0StrACAmloE4=
+		BKEN66ODJfQrIJxg7U9mBLchVr4=
 		</data>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>FormStoryboard.storyboardc/KycFirstPageController.nib/objects-13.0+.nib</key>
 		<data>
-		y9Os7tKXHOO/07o92eADXngByc8=
+		cIhZlaFeHuASDjxrtoQb6kdscMg=
 		</data>
 		<key>FormStoryboard.storyboardc/KycFirstPageController.nib/runtime.nib</key>
 		<data>
-		y9Os7tKXHOO/07o92eADXngByc8=
+		cIhZlaFeHuASDjxrtoQb6kdscMg=
 		</data>
 		<key>FormStoryboard.storyboardc/UITableViewController-6PO-fD-YWs.nib/objects-13.0+.nib</key>
 		<data>
@@ -42,23 +42,23 @@
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/objects-13.0+.nib</key>
 		<data>
-		FVQ35TqT6JTOeDCqZKLY9NKW0ro=
+		vAdz1jOHHukmcpZHVuXnv5LbeEM=
 		</data>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<data>
-		Ls51c61wPijw2NUX2SUN/Hu1v7Y=
+		KwjP3Z98aC/e6QkZIEIKdiM7zI8=
 		</data>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
 		<data>
-		ddgO79F4bgVkGnVcGOu/8al1xgs=
+		I6IDw7tF7xYNRmrCqH3D9MtYqcM=
 		</data>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/runtime.nib</key>
 		<data>
-		h++RpLlgYir79tL+d/Q/ne6wO5c=
+		KbCVyspKjL6CSKZPveVCcGbDf6E=
 		</data>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<data>
-		/RUa33gmBg0J+xPt6sxZF+kyE0I=
+		txcH/0PhEg1809uapfTSVDXUtSM=
 		</data>
 		<key>Headers/DigiokycSDK.h</key>
 		<data>
@@ -66,43 +66,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		w9AhH1M4Jmn/5uwAgELPC2QHjD4=
+		OC0jkPLC4ZNeBgK8JjbzmEaYR+U=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		7GydOwWaMOq2aDF0kcS97jhcPbs=
+		kp8fFEUIF9tiTCKKZflrQa8T4j4=
 		</data>
-		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7GydOwWaMOq2aDF0kcS97jhcPbs=
+		7GNyIuYeQ7wkgCW0YZHiAwKoLG4=
+		</data>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		6ZN6g8nKumgxCFfv15qdLCjAj2g=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		maq489t3kTaF6A+1x5Bk4LqD64U=
+		xoNUFJRDDOqPGx6hw1ArjKgoa4w=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		nf/NER7qxaRNa/UgyY5gwsg2GoY=
+		6ZN6g8nKumgxCFfv15qdLCjAj2g=
 		</data>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		w1dl0fXtOkSi+ysmFj/KOeIZva4=
-		</data>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		maq489t3kTaF6A+1x5Bk4LqD64U=
-		</data>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		nf/NER7qxaRNa/UgyY5gwsg2GoY=
-		</data>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		w1dl0fXtOkSi+ysmFj/KOeIZva4=
+		SGTTVkUOXG01nEbL2s9Dqs7c57U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		gAyvRjodDOE952kwlQ7x/Z0TQ7U=
+		iWQn1AcYrQK+lbQsqn7zoLpToWU=
 		</data>
 		<key>ic_refresh.png</key>
 		<data>
@@ -116,6 +108,74 @@
 		<data>
 		Rg9u91zfHEsrmObXEQ7O9GjzsYY=
 		</data>
+		<key>newOKYCStoryboard.storyboardc/Info.plist</key>
+		<data>
+		bI9sYFeg5AAZPR/WbpQIlKpcHic=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/KycFirstPageController.nib/objects-13.0+.nib</key>
+		<data>
+		A5OuSJYvXqm5+BXaAPYnbQZJb0g=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/KycFirstPageController.nib/runtime.nib</key>
+		<data>
+		A5OuSJYvXqm5+BXaAPYnbQZJb0g=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-hLT-T4-dAO.nib/objects-13.0+.nib</key>
+		<data>
+		bB5Xi5pIuzs12TI+uFVk25u3k5k=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-hLT-T4-dAO.nib/runtime.nib</key>
+		<data>
+		bB5Xi5pIuzs12TI+uFVk25u3k5k=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-sD6-A8-tCW.nib/objects-13.0+.nib</key>
+		<data>
+		Vyc69sUqxp3UVfNaYUomMzmHaPM=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-sD6-A8-tCW.nib/runtime.nib</key>
+		<data>
+		Vyc69sUqxp3UVfNaYUomMzmHaPM=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/objects-13.0+.nib</key>
+		<data>
+		RPxRsK+aFfAPTCtBoVDuim34PoU=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/runtime.nib</key>
+		<data>
+		RPxRsK+aFfAPTCtBoVDuim34PoU=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/objects-13.0+.nib</key>
+		<data>
+		EQYI+FzWf3qYerGC+dCBHOsgvZ8=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/runtime.nib</key>
+		<data>
+		EQYI+FzWf3qYerGC+dCBHOsgvZ8=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/objects-13.0+.nib</key>
+		<data>
+		5yrSNb/RHCrW+PSYNDuwwQ+VAkA=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/runtime.nib</key>
+		<data>
+		5yrSNb/RHCrW+PSYNDuwwQ+VAkA=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/p6z-Th-4yM-view-pkY-3d-gfk.nib/objects-13.0+.nib</key>
+		<data>
+		O5iil4narQMdT7CzWg4RhlVZzgE=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/p6z-Th-4yM-view-pkY-3d-gfk.nib/runtime.nib</key>
+		<data>
+		fI1NWuXajW56Cx7KHuC0I73XJmY=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/objects-13.0+.nib</key>
+		<data>
+		O1HCT90pMzhUfrZr/PFbuGKicsY=
+		</data>
+		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/runtime.nib</key>
+		<data>
+		O1HCT90pMzhUfrZr/PFbuGKicsY=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -123,14 +183,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RcEF/vIwBwsGuIaBO7Jsb4rl7nwAc24JvC7Dnu9/kNE=
+			jgwrcHyeGpr2xljs/mhSHeEAO9tMFsswLFoEs2oFlMM=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/6PO-fD-YWs-view-5bc-PM-Qow.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RcEF/vIwBwsGuIaBO7Jsb4rl7nwAc24JvC7Dnu9/kNE=
+			jgwrcHyeGpr2xljs/mhSHeEAO9tMFsswLFoEs2oFlMM=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/Info.plist</key>
@@ -158,14 +218,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dlvj0ccykOpG/ZfH84WQWRumb5/1u76rzbtPA3dRbm8=
+			MlB9lz53VgAXdEOt5Dl77F+aIRThpiHdCXe6xRgi0w4=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/KycFirstPageController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dlvj0ccykOpG/ZfH84WQWRumb5/1u76rzbtPA3dRbm8=
+			MlB9lz53VgAXdEOt5Dl77F+aIRThpiHdCXe6xRgi0w4=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/UITableViewController-6PO-fD-YWs.nib/objects-13.0+.nib</key>
@@ -186,35 +246,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PI7P1lzITZXAUojKOF3pKW6G2TwqpFFNs0591WvcqlY=
+			WegyPqDJRyGBpaDSYOK6RQtIOjdNwO5jkhOkOJG6mg8=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/ZsC-qr-0TS-view-tBf-mg-8An.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dAYVFAxIKS7ASJzfKWSdtTYDRojb8oLmHWLl2AMi9NI=
+			KNrNsaQPuDkxcVqMQzd6JCj1V10BV008RaTMw1fYp38=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T1MEQ8NkM8MXUvHS1ZdRAzzBvcr1tv+YZPpIed2Nnjw=
+			D5vKh3wwKuMmhAZ+J33VbLDtl0hFctkcY6Zsqo2YLyE=
 			</data>
 		</dict>
 		<key>FormStoryboard.storyboardc/szv-nj-hJM-view-Rmc-E7-Eus.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4mGYkxpsFlPPkAMHJK6nRLS9+TXIgwIzhNTqctEyKF4=
+			B4WQDo2R9OM0OIxcCKdmvCz57FHGUGIeSKeQDGS3p1U=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JpU2Fc5SQjvgvpggv1XEgpm7QpsQ4cecTIZHgo7th3s=
+			gtrt2Q8dG2LblRzqtv4+omvgqMZMoJSGjFt5zwseCFM=
 			</data>
 		</dict>
 		<key>Headers/DigiokycSDK.h</key>
@@ -228,63 +288,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6L9H5+xnMqvKGebCUZplMkLpb4UB6i1ax6ADjWx6yaE=
+			LlUhhoYxgo/DPzDdA125tmNxzv2AuxSE0Jzqck8YKwc=
 			</data>
 		</dict>
-		<key>Modules/DigiokycSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6L9H5+xnMqvKGebCUZplMkLpb4UB6i1ax6ADjWx6yaE=
+			GGFHA4RMe8wtNj6AGTBV/BHENxFmjfv8tATfIOGN41g=
+			</data>
+		</dict>
+		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l5EQ+TmDWobi+jcOZCgbryhue7DEI5d75PcyrPLeF0E=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0AVXl1WPsqhPEBfDhwj8Jy/Lfum+2OP7YEeRxXWTD+Q=
+			gFC/m2JCV5wHfw7Ol54QkXGKsv6qHpKkwkUk3KlC/WU=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4/SrwxUvRwE9zmbJ9d4ToWJGLc0dSHtoFCb1JI7Q5bk=
+			l5EQ+TmDWobi+jcOZCgbryhue7DEI5d75PcyrPLeF0E=
 			</data>
 		</dict>
 		<key>Modules/DigiokycSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TS5q+ExayL1+iTbiL8xDIck2EguTbVYLl5fClXk6ot4=
-			</data>
-		</dict>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0AVXl1WPsqhPEBfDhwj8Jy/Lfum+2OP7YEeRxXWTD+Q=
-			</data>
-		</dict>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4/SrwxUvRwE9zmbJ9d4ToWJGLc0dSHtoFCb1JI7Q5bk=
-			</data>
-		</dict>
-		<key>Modules/DigiokycSDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TS5q+ExayL1+iTbiL8xDIck2EguTbVYLl5fClXk6ot4=
+			eVlp93RECcoV+6zIA4W48FVU4WyG7NdAycJSguZn/Mw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rAxDvqk04y/IJlQH0dMFhEiC0tmlUeOvmwfku/uHybo=
+			zPSWW75sIVaU+xiE58cUkfBoF9Ugxq7XU9FZ2FYrTVk=
 			</data>
 		</dict>
 		<key>ic_refresh.png</key>
@@ -306,6 +352,125 @@
 			<key>hash2</key>
 			<data>
 			U9TwZ5X4O0at/JbBuU1kENdGS/J7YBPArHS45ixS2l8=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uDHSOA8AaW06tMVCJ93/rf43lBD3jEif/3LiUuklk74=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/KycFirstPageController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UmuIkS3VQ0Gidp+5jcSEOcl7wXCTlJfl4D8X1nNXQRQ=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/KycFirstPageController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UmuIkS3VQ0Gidp+5jcSEOcl7wXCTlJfl4D8X1nNXQRQ=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-hLT-T4-dAO.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yz+i7YgR+o8ak5pLS45b9ueumaJ3r8kJaKAB0TubL/0=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-hLT-T4-dAO.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yz+i7YgR+o8ak5pLS45b9ueumaJ3r8kJaKAB0TubL/0=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-sD6-A8-tCW.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8Sp/BQXTwji+oVV8ycApvAPKwEJloic/VN3e/rtgv7g=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/UITableViewController-sD6-A8-tCW.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8Sp/BQXTwji+oVV8ycApvAPKwEJloic/VN3e/rtgv7g=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5QVKx6hKYUbqERVE/YwKmGbpEQzj4xA27leqZsHcUEQ=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/fZ7-h9-yMe-view-kAX-BF-M1h.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5QVKx6hKYUbqERVE/YwKmGbpEQzj4xA27leqZsHcUEQ=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UiKgFaYYJgqBX9MjM+ORyJ2Qnvowxr9FOlDC1uSJqTE=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/hLT-T4-dAO-view-gTy-zS-yMu.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UiKgFaYYJgqBX9MjM+ORyJ2Qnvowxr9FOlDC1uSJqTE=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BB/ugQ8iD41NKsMC7agoqL4gt4C1Q9srMy/TkVH0z1k=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/newOKYCBoard.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BB/ugQ8iD41NKsMC7agoqL4gt4C1Q9srMy/TkVH0z1k=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/p6z-Th-4yM-view-pkY-3d-gfk.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JVWgT9o+ejZcJtTlK8F5AhognPvrgtK0QErFH4iSITU=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/p6z-Th-4yM-view-pkY-3d-gfk.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5fRe5G8lt0kvZAAt/hLwHJBGYis+MV3e4boZRk+Anz0=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6cKE/gJeZzVwvuy9B5tL3Zlrnv2E0FeLByOcbf8TBsY=
+			</data>
+		</dict>
+		<key>newOKYCStoryboard.storyboardc/sD6-A8-tCW-view-9jg-YL-bZn.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6cKE/gJeZzVwvuy9B5tL3Zlrnv2E0FeLByOcbf8TBsY=
 			</data>
 		</dict>
 	</dict>
