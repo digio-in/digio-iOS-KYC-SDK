@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DigiokycSDK"
-  spec.version      = "0.0.9"
+  spec.version      = "1.0.1"
   spec.summary      = "OKYC, OCR, PAN verification, Aadhaar."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                           DigiokycSDK is a swift client framework, which is design for eKYC, OKYC, Aadhaar verification, Pancard verification, OCR etc
                    DESC
 
-  spec.homepage     = "https://github.com/digio-in/digio-iOS-KYC-SDK"
+  spec.homepage     = "https://github.com/digio-in/digio-iOS-KYC-SDK.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -53,7 +53,7 @@ Pod::Spec.new do |spec|
   #  profile URL.
   #
 
-  spec.author             = { "Digio" => "akash@digio.in" }
+  spec.author             = { "Digio" => "naman.jain@digio.in" }
   spec.social_media_url   = "https://twitter.com/digio_in"
   # Or just: spec.author    = "Akash"
   # spec.authors            = { "Akash" => "akash-at-116522020260" }
@@ -70,7 +70,7 @@ Pod::Spec.new do |spec|
 
   #  When using multiple platforms
   spec.ios.deployment_target = "11.0"
-  spec.swift_version = "5.6"
+  spec.swift_version = "5.7"
   # spec.osx.deployment_target = "10.7"
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
